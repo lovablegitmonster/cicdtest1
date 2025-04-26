@@ -1,2 +1,7 @@
 creating b
+HEAD
 editing b in car
+=======
+editing b from bike
+>>>>>>> bike
+fixing conflicts while merging bike to car
